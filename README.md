@@ -3,7 +3,6 @@
 
 ### 🤖 AI Engineer in Progress • 🚀 Builder • 💡 Future-Focused Learner
 
-![Profile Views](https://komarev.com/ghpvc/?username=iZzIbRaHiM\&label=Profile%20Views\&color=0e75b6\&style=flat)
 ![AI Focus](https://img.shields.io/badge/Focus-Artificial%20Intelligence-blue)
 ![Open Source](https://img.shields.io/badge/Open%20To-Collaboration-orange)
 ![Always Learning](https://img.shields.io/badge/Mindset-Continuous%20Learning-success)
