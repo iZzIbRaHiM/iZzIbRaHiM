@@ -94,13 +94,6 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iZzIbRaHiM\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iZzIbRaHiM\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
 
 # 🎯 Career Vision (Recruiter Friendly)
 
@@ -151,16 +144,7 @@ I’m interested in:
 💬 Best way: Message me on GitHub
 🤝 Always open to meaningful collaborations
 
----
 
-# ⭐ Motto
-
-**Stay curious. Build relentlessly. The future belongs to creators.**
-
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate with people who can help me attain new skills
-- 📫 How to reach me, just msg me here
--
 
 <!---
 iZzIbRaHiM/iZzIbRaHiM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
